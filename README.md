@@ -1,4 +1,4 @@
-/ Enstrüman Satın alma Uygulamamız da isteğe bağlı öncelikle Enstrüman eklenir. Ardından Sipariş verilir gerekli bilgiler doldurularak ve son olarak Müşteri bilgileri ve Satılan Enstrümanlar kontrol edilir.
+// Enstrüman Satın alma Uygulamamız da isteğe bağlı öncelikle Enstrüman eklenir. Ardından Sipariş verilir gerekli bilgiler doldurularak ve son olarak Müşteri bilgileri ve Satılan Enstrümanlar kontrol edilir.
 
 ** Uygulama Ana Ekran
 
