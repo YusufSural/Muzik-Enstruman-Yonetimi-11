@@ -4,7 +4,7 @@
 
 ![Ekran görüntüsü 2024-05-06 155830](https://github.com/YusufSural/Muzik-Enstruman-Yonetimi-11/assets/84929731/1dce3978-1141-45e7-8fd1-2f83fe8f3ac7)
 
-** Enstrüman eklenmiş Görüntüsü
+** Enstrüman Eklenmiş Görüntüsü
 
 ![Ekran görüntüsü 2024-05-06 160010](https://github.com/YusufSural/Muzik-Enstruman-Yonetimi-11/assets/84929731/26de1b44-128d-4f6e-a348-36cbf2f44c34)
 
